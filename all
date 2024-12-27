@@ -1,0 +1,67 @@
+<div class="prt">
+
+<div class="topbox">
+    <div class="bcg">
+        <img src="" alt="baner w tle"/>
+    </div>
+
+    <div class="headerbox">
+        <div class="menubox">
+            <p>My projects</p>
+            <p>Work experience & skills</p>
+            <p>About me</p>
+        </div>
+    </div>
+
+    <div class="infotxt">
+        <h1></h1>
+        <h2></h2>
+        <h2></h2>
+        <div class="btnbox">
+            <a class="contactbtn"></a>
+            <a class="cvbtn"></a>
+        </div>
+    </div>
+</div>
+
+<div class="stickytop">
+   <a class="download"></a>
+   <a class="phone"></a>
+   <a class="mail"></a>
+</div>
+
+<div class="infoboxes">
+    <div class="projects">
+        <h3></h3>
+        <h4></h4>
+    </div>
+
+    <div class="skills">
+        <h3></h3>
+        <h4></h4>
+    </div>
+
+    <div class="about">
+        <h3></h3>
+        <h4></h4>
+    </div>
+</div>
+
+</div>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Questrial&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family:'questrial', Arial, Helvetica, sans-serif;
+}
+.prt{
+    background: linear-gradient(45deg, #313c41, #657e98);
+    width:100%;
+}
+.menubox{
+    display:flex;
+    justify-content: space-around;
+    color:#e9dcbd;
+}
+</style>
+    
